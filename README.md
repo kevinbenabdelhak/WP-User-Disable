@@ -9,7 +9,7 @@
 **License**: GPLv2 or later  
 **License URI**: [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.html)
 
-**WP UserDisable** est un plugin WordPress pratique qui permet aux administrateurs de désactiver rapidement les comptes utilisateurs, facilitant ainsi la gestion des utilisateurs et la sécurité du site.
+**WP User Disable** est un plugin WordPress pratique qui permet aux administrateurs de désactiver rapidement les comptes utilisateurs, facilitant ainsi la gestion des utilisateurs et la sécurité du site.
 
 [![Voir le tutoriel](https://img.youtube.com/vi/beg8NcB2Mg8/hqdefault.jpg)](https://www.youtube.com/watch?v=beg8NcB2Mg8)
 
@@ -29,7 +29,7 @@
 ## Installation
 
 1. **Téléchargez le fichier ZIP du plugin :**  
-   Rendez-vous sur la page [WP UserDisable](https://kevin-benabdelhak.fr/plugins/wp-user-disable/) et téléchargez le fichier en cliquant sur Code, puis télécharger en zip.
+   Rendez-vous sur la page [WP User Disable](https://kevin-benabdelhak.fr/plugins/wp-user-disable/) et téléchargez le fichier en cliquant sur Code, puis télécharger en zip.
 
 2. **Uploader le fichier ZIP du plugin :**
    - Allez dans le panneau d'administration de WordPress et cliquez sur "Extensions" > "Ajouter".
