@@ -11,7 +11,7 @@
 
 **WP UserDisable** est un plugin WordPress pratique qui permet aux administrateurs de désactiver rapidement les comptes utilisateurs, facilitant ainsi la gestion des utilisateurs et la sécurité du site.
 
-[![Voir le tutoriel](https://img.youtube.com/vi/beg8NcB2Mg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=beg8NcB2Mg8)
+[![Voir le tutoriel](https://img.youtube.com/vi/beg8NcB2Mg8/hqdefault.jpg)](https://www.youtube.com/watch?v=beg8NcB2Mg8)
 
 
 #### Fonctionnalités principales :
