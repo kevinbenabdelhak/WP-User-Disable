@@ -9,7 +9,7 @@
 **License**: GPLv2 or later  
 **License URI**: [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.html)
 
-**WP User Disable** est un plugin WordPress pratique qui permet aux administrateurs de désactiver rapidement les comptes utilisateurs, facilitant ainsi la gestion des utilisateurs et la sécurité du site.
+WP User Disable est un plugin WordPress qui permet aux administrateurs de désactiver facilement les comptes utilisateurs en un clic. Il facilite ainsi la gestion des utilisateurs inactifs ou problématiques, en conservant les mots de passe et données des comptes Woocommerce.
 
 [![Voir le tutoriel](https://img.youtube.com/vi/beg8NcB2Mg8/hqdefault.jpg)](https://www.youtube.com/watch?v=beg8NcB2Mg8)
 
