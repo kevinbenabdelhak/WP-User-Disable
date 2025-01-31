@@ -1,4 +1,4 @@
-# WP UserDisable
+# WP User Disable
 
 **Contributors**: kevinbenabdelhak  
 **Tags**: user management, WordPress, admin tools, disable users  
