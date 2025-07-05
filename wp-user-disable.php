@@ -3,7 +3,7 @@
 * Plugin Name: WP UserDisable
 * Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-user-disable/
 * Description: WP User Disable est un plugin WordPress qui permet aux administrateurs de désactiver un compte WordPress temporairement, en conservant les données de ce dernier.
-* Version: 1.1
+* Version: 1.0
 * Author: Kevin Benabdelhak
 * Author URI: https://kevin-benabdelhak.fr/
 * Contributors: kevinbenabdelhak
